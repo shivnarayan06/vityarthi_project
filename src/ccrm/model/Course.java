@@ -1,0 +1,38 @@
+package ccrm.model;
+
+public class Course {
+    private String courseCode;
+    private String courseName;
+    private int creditHours;
+
+    public Course(String courseCode, String courseName, int creditHours) {
+        this.courseCode = courseCode;
+        this.courseName = courseName;
+        this.creditHours = creditHours;
+    }
+
+    public String getCourseCode(){ 
+        return courseCode; 
+    }
+
+    public String getCourseName() { 
+        return courseName; 
+    }
+
+    public int getCreditHours(){ 
+        return creditHours; 
+    }
+
+    public void updateCourseName(String courseName) { 
+        this.courseName = courseName; 
+    }
+
+    public void updateCreditHours(int creditHours){ 
+        this.creditHours = creditHours; 
+    }
+    @Override
+    public String toString() {
+        return String.format("%s: %s [%d credits]", 
+                           courseCode, courseName, creditHours);
+    }
+}
