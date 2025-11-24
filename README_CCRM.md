@@ -1,4 +1,4 @@
-**Campus Course & Records Manager (CCRM)**
+## **Campus Course & Records Manager (CCRM)**
 
 A console-based academic records system that manages students, courses, offerings, enrollments, grades, and GPA computation. Designed as a clean, administration-level implementation demonstrating modular design, layered architecture, and basic data-handling workflows.
 
