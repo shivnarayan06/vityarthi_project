@@ -24,33 +24,24 @@ Everything runs purely in the console, with a structured service-layer architect
 
 Student Management :
 
-• Addition of new students      
-
-• Updating academic details      
-
-• Viewing complete student list
+    • Addition of new students      
+    • Updating academic details      
+    • Viewing complete student list
 
 Course Management : 
 
-• Add and register for courses with credits 
-
-• Create semester-wise offerings 
-
-• List and edit course catalog and offerings
+    • Add and register for courses with credits 
+    • Create semester-wise offerings 
+    • List and edit course catalog and offerings
 
 Enrollment System:
 
-• Enroll students into offerings 
-
-• Validate offering capacity 
-
-• Assign and update grades 
-
-• Compute cumulative GPA
-
-• Transcript-style student record 
-
-• Enrollment listings per offering
+    • Enroll students into offerings 
+    • Validate offering capacity 
+    • Assign and update grades 
+    • Compute cumulative GPA
+    • Transcript-style student record 
+    • Enrollment listings per offering
 
 ────
 
