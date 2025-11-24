@@ -137,7 +137,7 @@ Key Concepts Demonstrated • Modular design • Encapsulation through services 
 
 ## Future Enhancements:
 
- • Replace in-memory HashMap with MySQL or PostgreSQL • Web interface (Express/React/JavaFX) • Build frontend with React for better UX • Authentication and role-based access • CSV import/export • Automated transcript PDF generation • Attendance or timetable modules • Backup and recovery system
+• Replace in-memory HashMap with MySQL or PostgreSQL • Web interface (Express/React/JavaFX) • Build frontend with React for better UX • Authentication and role-based access • CSV import/export • Automated transcript PDF generation • Attendance or timetable modules • Backup and recovery system
 
 ────
 
